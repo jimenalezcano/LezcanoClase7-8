@@ -1,0 +1,15 @@
+#barra{
+    background-color: rgb(121, 190, 156);
+    font-family: 'EB Garamond', serif;
+}
+
+#nombre{ 
+    color: white;
+}
+
+#presentacion{
+    text-align: center;
+    font-size: 160%;
+    font-family: 'Source Serif Pro', serif;
+    padding-top: 5%;
+}
