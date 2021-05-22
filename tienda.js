@@ -49,6 +49,6 @@ function registrarUser(cliente) {
 
 registrarUser(cliente);
 
-// Manipulando el DOM
+// Obtengo informacion del parrafo con id: presentacion de html
 
 console.log(document.getElementById("presentacion"))
